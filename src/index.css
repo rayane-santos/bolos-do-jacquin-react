@@ -26,6 +26,12 @@ body {
     /* background-color: aqua; */
 }
 
+.container-notfound{
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* background-color: aqua; */
+}
 
 /* ---------- H2 ---------- */
 .box_h2 {
